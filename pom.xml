@@ -17,7 +17,7 @@
         <repository>
             <id>github</id>
             <name>Github Packages</name>
-            <url>https://maven.pkg.github.com/zipepic/Core</url>
+            <url>https://maven.pkg.github.com/zipepic/OOP-Patterns-in-Java</url>
         </repository>
     </distributionManagement>
 </project>
